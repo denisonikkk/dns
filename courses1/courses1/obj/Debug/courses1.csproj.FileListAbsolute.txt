@@ -1,0 +1,7 @@
+D:\courses\courses1\courses1\bin\Debug\courses1.exe.config
+D:\courses\courses1\courses1\bin\Debug\courses1.exe
+D:\courses\courses1\courses1\bin\Debug\courses1.pdb
+D:\courses\courses1\courses1\obj\Debug\courses1.csprojAssemblyReference.cache
+D:\courses\courses1\courses1\obj\Debug\courses1.csproj.CoreCompileInputs.cache
+D:\courses\courses1\courses1\obj\Debug\courses1.exe
+D:\courses\courses1\courses1\obj\Debug\courses1.pdb
